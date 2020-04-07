@@ -9,7 +9,7 @@ PRO TIP: The space bar makes it easy to lift the ship up./*don’t tell anyone*/
 Gravity is pulling you down.
 
 
-####################################################HOW To START#############################################################
+###############################################HOW To START#############################################################
 
  #for LINUX follow the commands to run it. //OPEN TERMINAL//
  
