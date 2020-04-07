@@ -31,7 +31,7 @@ while screen_open:
             if event.type == pygame.QUIT:
                 pygame.quit()
                 quit()
-            if event.type == pygame.MOUSEBUTTONUP:  # or MOUSEBUTTONDOWN depending on what you want.
+            if event.type == pygame.MOUSEBUTTONUP:
                 click_coord = event.pos
                 click_x = click_coord[0]
                 click_y = click_coord[1]
@@ -39,7 +39,6 @@ while screen_open:
                     if(click_y<205 and click_y>50):
                     	game(30000)
                     elif (click_y<385 and click_y>230):
-                    	print("hard")
                     	game(8000)
     choice.fill(COL1)
     pygame.draw.rect(choice, COL2, (100, 50, 600, 155))
