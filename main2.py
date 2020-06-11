@@ -75,22 +75,11 @@ def game(hardness):
 					if event.type == pygame.QUIT:
 						pygame.quit()
 						quit()
-					if event.type == pygame.MOUSEBUTTONUP:
-						click_coord = event.pos
-						click_x = click_coord[0]
-						click_y = click_coord[1]
-						if 0<=click_y<=32 and 300<=click_x<=500:
-							game(hardness)
 				scoretext = font.render(f"SCORE: {score}",True, (0, 0, 0), (255,0,0))
 				scorerect = scoretext.get_rect()
 				scorerect.center = (400,500)
 				screen.blit(scoretext,scorerect)
 				screen.blit(gameoverimg,(114,-30))
-				pygame.draw.rect(screen,(50,50,250),(300,0,200,32))
-				restart_text = fontmid.render("RESTART",True,(0,0,0),(50,50,250))
-				restart_rect = restart_text.get_rect()
-				restart_rect.center= (400,12)
-				screen.blit(restart_text,restart_rect)
 
 				pygame.display.update()
 		
