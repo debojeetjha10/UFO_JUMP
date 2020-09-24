@@ -24,7 +24,7 @@ ___
      
   5.Enter the command  `python3 screen.py`
      
-  6. Tell me your score:)[email me](debojeetjha@gmail.com)
+ 6. Tell me your score:)[email me](debojeetjha@gmail.com)
 ___
 
 
