@@ -4,24 +4,27 @@ There is a space shuttle.you are the astronaut,make sure the ship skips all the 
 
 You can use all the arrow keys to control the ship.
 
-PRO TIP: The space bar makes it easy to lift the ship up./*don’t tell anyone*/
+***PRO TIP:*** The space bar makes it easy to lift the ship up._/*don’t tell anyone*/_
 
-Gravity is pulling you down.
+Gravity is pulling you down hurry up!!!!.
+___
 
-
-## HOW To START
+## HOW To Play
 
  #<b>for LINUX follow the commands to run it.</b> //OPEN TERMINAL//
  
-     1.Enter the command " pip3 install pygame " //you will not need this if you have pygame pre-installed.
+     1.Enter the command (`pip3 install pygame`) //you will not need this if you have pygame pre-installed.
      
-     2.If the previous command throws an error, give the command " sudo apt-get install python3-pip " then follow the step 1. //after installing pygame in your system.//
+     2.If the previous command throws an error, give the command (`sudo apt-get install python3-pip`) then follow the step 1. *after installing pygame in your system.*
      
-     3.Enter the command " git clone https://github.com/debojeetjha10/UFO_JUMP.git  ".
+     3.Enter the command (`git clone https://github.com/debojeetjha10/UFO_JUMP.git`)
      
-     4.Enter the command " cd UFO_JUMP".
+     4.Enter the command (`cd UFO_JUMP`)
      
-     5.Enter the command " python3 screen.py ".
+     5.Enter the command  (`python3 screen.py`)
      
-     6. Tell me your score:)
+     6. Tell me your score:)[email me](debojeetjha@gmail.com)
+___
+
+
 
